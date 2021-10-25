@@ -6,7 +6,11 @@ This is a PyTorch implementation of a rotation equivariant U-Net model for segme
 
 ## Installation
 
+```
+conda create --name roteqseg python=3.7.9
+conda activate roteqseg
 python setup.py install
+````
 
 ## Requirements
 
@@ -35,6 +39,13 @@ python trainer.py --savedir 'eq_code_test' -- epochs 12 --model 'unet_eq'
 
 Please cite our paper if you make use of our work:
 
-
+```
+@article{mitton2021rotation,
+  title={Rotation Equivariant Deforestation Segmentation and Driver Classification},
+  author={Mitton, Joshua and Murray-Smith, Roderick},
+  journal={NeurIPS 2021 Workshop on Tackling Climate Change with Machine Learning},
+  year={2021}
+}
+```
 
 
