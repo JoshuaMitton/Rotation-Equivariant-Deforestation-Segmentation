@@ -18,6 +18,6 @@ setup(name='Rotation-Equivariant-Deforestation-Segmentation',
                         'opencv-python>=4.5.3.56',
                         'matplotlib>=3.3.4',
                         'e2cnn>=0.1.5',
-                        'scipy>=1.6.0'                                                ],
+                        'scipy>=1.6.0'],
       package_data={'Rotation-Equivariant-Deforestation-Segmentation': ['README.md']},
       packages=find_packages())
