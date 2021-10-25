@@ -12,8 +12,6 @@ conda activate roteqseg
 python setup.py install
 ````
 
-## Requirements
-
 ## Data
 
 The dataset used in this project is from https://stanfordmlgroup.github.io/projects/forestnet/ and can be dowloaded from their page.
