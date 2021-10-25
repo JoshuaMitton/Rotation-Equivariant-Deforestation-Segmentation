@@ -33,6 +33,8 @@ python trainer.py --savedir 'code_test' --epochs 12 --model 'unet'
 python trainer.py --savedir 'eq_code_test' -- epochs 12 --model 'unet_eq'
 ```
 
+We also provide a notebook file, Post_Run_Analysis.ipynb, which performs the post processing we used to generate figures and numeric results used in the paper.
+
 ## Cite
 
 Please cite our paper if you make use of our work:
