@@ -26,6 +26,7 @@ We provide both a non-rotation equivariant model and a rotation equivariant mode
 
 ```
 cd roteqseg
+mkdir Outputs
 python trainer.py --savedir 'code_test' --epochs 12 --model 'unet'
 python trainer.py --savedir 'eq_code_test' -- epochs 12 --model 'unet_eq'
 ```
