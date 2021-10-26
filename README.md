@@ -2,7 +2,7 @@
 
 This is a PyTorch implementation of a rotation equivariant U-Net model for segmentation and classification of deforestation areas as described in our paper:
 
-
+https://arxiv.org/abs/2110.13097
 
 ## Installation
 
