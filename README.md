@@ -7,7 +7,7 @@ https://arxiv.org/abs/2110.13097
 ## Installation
 
 ```
-conda create --name roteqseg python=3.7.9
+conda create --name roteqseg python=3.8
 conda activate roteqseg
 python setup.py install
 ````
